@@ -17,6 +17,7 @@
 - [JSX Redux 基础版](./basicredux/basicredux.md)
 - [JSX Redux-Thunk](./reduxthunk/reduxthunk.md)
 - [JSX React-Redux](./ReactRedux/ReactRedux.md)
+- [JSX React 之 Redux 拆分](./chaifenredux/chaifenredux.md)
 - [JSX React-styledcomponents](./styledComponent/styledComponent.md)
 - [JSX React 动画](./Reactdonghua/Reactdonghua.md)
 - [JSX React 路由](./ReactRouter/ReactRouter.md)
