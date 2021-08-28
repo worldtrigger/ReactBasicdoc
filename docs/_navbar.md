@@ -29,5 +29,5 @@
 - [JSX Reactlazy](./Reactlazy/Reactlazy.md)
 - [JSX ReactTs](./ReactTs/ReactTs.md)
 - [JSX ReactTs 路由](./ReactTSRouter/ReactTSRouter.md)
-- [JSX ReactTs Redux](./ReactTs/ReactTs.md)
+- [JSX ReactTs Redux](./ReactTsRedux/ReactTsRedux.md)
 - [JSX ReactTsTodolist](./ReactTSTodolist/ReactTSTodolist.md)
