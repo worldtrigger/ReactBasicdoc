@@ -87,5 +87,11 @@ create-react-app 项目名称
 
 ```bash
  npm install -g create-react-app
- npx create-react-app tsdemo1 --typescript
+ npx create-react-app tsdemo1 --template typescript
+```
+
+- 特别注意的就是安装路由或者其他必须使用 typescript
+
+```bash
+cnpm i @types/react-router-dom -S
 ```
